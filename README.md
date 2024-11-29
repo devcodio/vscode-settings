@@ -6,7 +6,7 @@ This guide will help you customize the appearance of Visual Studio Code using th
 
 ### Used Extensions:
 
-- [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
 - [JetBrains Icon Theme](https://marketplace.visualstudio.com/items?itemName=chadalen.vscode-jetbrains-icon-theme)
 - [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
 - [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
