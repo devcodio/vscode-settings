@@ -6,7 +6,7 @@ This guide will help you customize the appearance of Visual Studio Code using th
 
 ---
 
-### Used Extensions:
+### Customization Extensions:
 
 - [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -74,6 +74,31 @@ This guide will help you customize the appearance of Visual Studio Code using th
 - [Sass (.sass only)](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 - [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter)
 - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+
+---
+
+### Extensions you might like
+
+- [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+- [Catppuccin Perfect Icons](https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons)
+- [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs)
+- [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
+- [CSS-in-JS](https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-js)
+- [Dot Log](https://marketplace.visualstudio.com/items?itemName=jaluik.dot-log)
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [Iceberg](https://marketplace.visualstudio.com/items?itemName=harg.iceberg)
+- [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
+- [jsflowchart](https://marketplace.visualstudio.com/items?itemName=MULU-github.jsflowchart)
+- [JSON Crack](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode)
+- [Kanagawa](https://marketplace.visualstudio.com/items?itemName=qufiwefefwoyn.kanagawa)
+- [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=marnix.peacock)
+- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+- [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+- [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
 
 ---
 
