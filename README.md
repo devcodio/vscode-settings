@@ -1,4 +1,4 @@
-# VSCode Customizations
+# VSCode Settings
 
 This guide will help you customize the appearance of Visual Studio Code using the **Custom CSS and JS Loader** extension.
 
