@@ -50,6 +50,7 @@ This guide will help you customize the appearance of Visual Studio Code using th
 
 ### Extensions I use
 
+- [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
@@ -80,7 +81,6 @@ This guide will help you customize the appearance of Visual Studio Code using th
 ### Extensions you might like
 
 - [Alien Dark](https://marketplace.visualstudio.com/items?itemName=tzero86.alien-dark)
-- [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 - [Catppuccin Perfect Icons](https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons)
 - [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs)
 - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
