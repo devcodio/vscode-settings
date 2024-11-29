@@ -79,6 +79,7 @@ This guide will help you customize the appearance of Visual Studio Code using th
 
 ### Extensions you might like
 
+- [Alien Dark](https://marketplace.visualstudio.com/items?itemName=tzero86.alien-dark)
 - [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 - [Catppuccin Perfect Icons](https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons)
 - [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs)
