@@ -38,6 +38,7 @@
 	"editor.letterSpacing": 0.35,
 	"editor.lineHeight": 1.7,
 	"workbench.colorTheme": "Aura Dark (Soft Text)",
+	"workbench.iconTheme": "material-icon-theme",
 	"workbench.preferredDarkColorTheme": "Aura Dark (Soft Text)",
 
 	//? Formatting
@@ -126,7 +127,7 @@
 	"terminal.integrated.cursorStyle": "line",
 	"terminal.integrated.cursorStyleInactive": "line",
 	"terminal.integrated.cursorWidth": 3,
-	//"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
 	"terminal.integrated.fontFamily": "JetBrains Mono, Consolas, Courier New, monospace",
 	"terminal.integrated.fontSize": 16,
 	"terminal.integrated.gpuAcceleration": "off",
@@ -342,8 +343,7 @@
 	"cSpell.enabled": true,
 	// "cSpell.enabledFileTypes": ["blade", "jsx", "tsx", "ts", "js", "scss", "sass", "vue"],
 	"cSpell.language": "en,uk",
-	"cSpell.userWords": [],
-	"workbench.iconTheme": "material-icon-theme"
+	"cSpell.userWords": []
 
 	//*
 }
