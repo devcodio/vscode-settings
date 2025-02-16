@@ -86,13 +86,17 @@ This guide will help you customize the appearance of Visual Studio Code using th
 - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
 - [CSS-in-JS](https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-js)
 - [Dot Log](https://marketplace.visualstudio.com/items?itemName=jaluik.dot-log)
+- [Dracula Theme Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - [Iceberg](https://marketplace.visualstudio.com/items?itemName=harg.iceberg)
 - [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 - [jsflowchart](https://marketplace.visualstudio.com/items?itemName=MULU-github.jsflowchart)
 - [JSON Crack](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode)
 - [Kanagawa](https://marketplace.visualstudio.com/items?itemName=qufiwefefwoyn.kanagawa)
+- [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=marnix.peacock)
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
@@ -100,6 +104,7 @@ This guide will help you customize the appearance of Visual Studio Code using th
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
+- [Xcode Theme](https://marketplace.visualstudio.com/items?itemName=MateoCERQUETELLA.xcode-12-theme)
 
 ---
 
