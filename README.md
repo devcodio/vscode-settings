@@ -100,6 +100,7 @@ This guide will help you customize the appearance of Visual Studio Code using th
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=marnix.peacock)
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
+- [Soft Colors](https://marketplace.visualstudio.com/items?itemName=victorlitvinenko.vscode-soft-colors)
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
