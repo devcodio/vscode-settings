@@ -24,6 +24,9 @@ This guide will help you customise the appearance of Visual Studio Code.
 3. **Reload the Window**
    - After making changes to the configuration file, restart the editor from the command palette by selecting **"Reload Window"**.
   
+4. **Keyboard shortcuts**
+   - In addition, you can use key combinations from the `keybindings.json` file.
+  
 ---
 
 ### Extensions I use
