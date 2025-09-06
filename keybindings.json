@@ -1,0 +1,228 @@
+[
+	{
+		// Codesnap
+		"key": "ctrl+alt+c",
+		"command": "codesnap.start"
+	},
+	{
+		// Snipped
+		"key": "ctrl+alt+v",
+		"command": "snipped.start"
+	},
+	{
+		// eCSStractor for VSCode
+		"key": "alt+x",
+		"command": "extension.ecsstractor_port_run"
+	},
+	{
+		"key": "ctrl+alt+x",
+		"command": "extension.ecsstractor_port_runwithbem"
+	},
+	{
+		// Загорнути в тег
+		"key": "alt+t",
+		"command": "editor.emmet.action.wrapWithAbbreviation"
+	},
+	{
+		// Створити новий файл
+		"key": "a",
+		"command": "explorer.newFile",
+		"when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+	},
+	{
+		// Створити нову папку
+		"key": "shift+a",
+		"command": "explorer.newFolder",
+		"when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+	},
+	{
+		// Змінення фокусу
+		"key": "ctrl+shift+e",
+		"command": "workbench.action.focusSideBar",
+		"when": "editorTextFocus || terminalFocus"
+	},
+	{
+		"key": "ctrl+shift+e",
+		"command": "workbench.view.search.focus",
+		"when": "activeViewlet == 'workbench.view.search' && !inputFocus"
+	},
+	{
+		"key": "ctrl+shift+e",
+		"command": "workbench.action.focusActiveEditorGroup",
+		"when": "editorIsOpen && !editorTextFocus && !view.terminal.visible"
+	},
+
+	// {
+	// 	// Змінення фокусу
+	// 	"key": "ctrl+shift+e",
+	// 	"command": "workbench.action.toggleSidebarVisibility"
+	// },
+	// {
+	// 	"key": "ctrl+k ctrl+b",
+	// 	"command": "-workbench.action.toggleSidebarVisibility"
+	// },
+
+	{
+		// Перемкнутися на провідник
+		"key": "alt+e",
+		"command": "-workbench.view.explorer",
+		"when": "viewContainer.workbench.view.explorer.enabled"
+	},
+	{
+		"key": "alt+e",
+		"command": "workbench.view.explorer",
+		"when": "viewContainer.workbench.view.explorer.enabled"
+	},
+	{
+		// Наступна вкладка
+		"key": "ctrl+tab",
+		"command": "-workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup",
+		"when": "!activeEditorGroupEmpty"
+	},
+	{
+		"key": "ctrl+tab",
+		"command": "-workbench.action.quickOpenNavigateNextInEditorPicker",
+		"when": "inEditorsPicker && inQuickOpen"
+	},
+	{
+		"key": "ctrl+tab",
+		"command": "workbench.action.nextEditor",
+		"when": "!terminalFocus && !listFocus && !suggestWidgetVisible && !inQuickOpen && !inputBoxFocus"
+	},
+	{
+		"key": "shift+ctrl+]",
+		"command": "-workbench.action.nextEditor"
+	},
+	{
+		// Попередня вкладка
+		"key": "ctrl+shift+tab",
+		"command": "workbench.action.previousEditor",
+		"when": "!terminalFocus && !listFocus && !suggestWidgetVisible && !inQuickOpen && !inputBoxFocus"
+	},
+	{
+		"key": "shift+ctrl+[",
+		"command": "-workbench.action.previousEditor"
+	},
+	{
+		"key": "ctrl+shift+tab",
+		"command": "-workbench.action.quickOpenLeastRecentlyUsedEditorInGroup",
+		"when": "!activeEditorGroupEmpty"
+	},
+	{
+		"key": "ctrl+shift+tab",
+		"command": "-workbench.action.quickOpenNavigatePreviousInEditorPicker",
+		"when": "inEditorsPicker && inQuickOpen"
+	},
+	{
+		// Відновити стандартний масштаб
+		"key": "ctrl+0",
+		"command": "workbench.action.zoomReset"
+	},
+	{
+		// Закрити сповіщення
+		"key": "escape",
+		"command": "notifications.hideToasts",
+		"when": "notificationToastsVisible"
+	},
+	{
+		// Перейти до символу в редакторі
+		"key": "ctrl+r",
+		"command": "workbench.action.gotoSymbol"
+	},
+	{
+		"key": "ctrl+shift+o",
+		"command": "-workbench.action.gotoSymbol",
+		"when": "!accessibilityHelpIsShown && !accessibleViewIsShown"
+	},
+	{
+		// Перейти до символу в проекті
+		"key": "ctrl+shift+r",
+		"command": "workbench.action.showAllSymbols"
+	},
+	{
+		"key": "ctrl+t",
+		"command": "-workbench.action.showAllSymbols"
+	},
+	{
+		// Оновити тег
+		"key": "ctrl+alt+t",
+		"command": "editor.emmet.action.updateTag",
+		"when": "editorTextFocus"
+	},
+	{
+		// Видалити тег
+		"key": "alt+d",
+		"command": "editor.emmet.action.removeTag",
+		"when": "editorTextFocus"
+	},
+	{
+		// Перехід між тегами
+		"key": "ctrl+m ctrl+m",
+		"command": "editor.emmet.action.matchTag",
+		"when": "editorTextFocus"
+	},
+	{
+		// Згорнути всі папки в провіднику
+		"key": "ctrl+alt+[",
+		"command": "workbench.files.action.collapseExplorerFolders"
+	},
+	{
+		// Розгорнути всі папки в провіднику
+		"key": "ctrl+alt+]",
+		"command": "workbench.files.action.showActiveFileInExplorer"
+	},
+	{
+		// Повноекранний термінал
+		"key": "ctrl+t",
+		"command": "workbench.action.toggleMaximizedPanel"
+	},
+	{
+		// Обрати мову для перекладу
+		"key": "ctrl+shift+alt+t",
+		"command": "extension.translateText"
+	},
+	{
+		// Google Fonts: Insert <link>
+		"key": "shift+alt+z",
+		"command": "extension.insertLink"
+	},
+	{
+		// Google Fonts: Insert CSS @import
+		"key": "shift+alt+x",
+		"command": "extension.insertImport"
+	},
+	{
+		// Попередній перегляд Markdown при відкритті .md файлу
+		"key": "alt+q",
+		"command": "markdown.showPreview",
+		"when": "!notebookEditorFocused && editorLangId == 'markdown'"
+	},
+	{
+		"key": "ctrl+shift+v",
+		"command": "-markdown.showPreview",
+		"when": "!notebookEditorFocused && editorLangId == 'markdown'"
+	},
+	{
+		// Попередній перегляд Markdown збоку
+		"key": "shift+alt+q",
+		"command": "markdown.showPreviewToSide",
+		"when": "!notebookEditorFocused && editorLangId == 'markdown'"
+	},
+	{
+		"key": "ctrl+k v",
+		"command": "-markdown.showPreviewToSide",
+		"when": "!notebookEditorFocused && editorLangId == 'markdown'"
+	},
+	{
+		"key": "alt+v",
+		"command": "convertCSSUnits.convert"
+	},
+	{
+		"key": "alt+z",
+		"command": "-convertCSSUnits.convert"
+	},
+	{
+		"key": "alt+b",
+		"command": "convertCSSUnits.setUnit"
+	}
+]
