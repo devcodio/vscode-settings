@@ -31,7 +31,6 @@ This guide will help you customise the appearance of Visual Studio Code.
 
 ### Extensions I use
 
-- [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
