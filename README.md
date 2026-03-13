@@ -72,7 +72,6 @@ This guide will help you customise the appearance of Visual Studio Code.
 
 ### Extensions you might like
 
-- [Alien Dark](https://marketplace.visualstudio.com/items?itemName=tzero86.alien-dark)
 - [Catppuccin Perfect Icons](https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons)
 - [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
@@ -81,28 +80,33 @@ This guide will help you customise the appearance of Visual Studio Code.
 - [CSS Flexbox Cheatsheet](https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet)
 - [CSS-in-JS](https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-js)
 - [Dot Log](https://marketplace.visualstudio.com/items?itemName=jaluik.dot-log)
-- [Dracula Theme Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
-- [Iceberg](https://marketplace.visualstudio.com/items?itemName=harg.iceberg)
 - [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 - [jsflowchart](https://marketplace.visualstudio.com/items?itemName=MULU-github.jsflowchart)
 - [JSON Crack](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode)
-- [Kanagawa](https://marketplace.visualstudio.com/items?itemName=qufiwefefwoyn.kanagawa)
-- [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
-- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=marnix.peacock)
 - [px to rem](https://marketplace.visualstudio.com/items?itemName=sainoba.px-to-rem)
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
-- [Soft Colors](https://marketplace.visualstudio.com/items?itemName=victorlitvinenko.vscode-soft-colors)
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
-- [Xcode Theme](https://marketplace.visualstudio.com/items?itemName=MateoCERQUETELLA.xcode-12-theme)
+
+---
+
+### Other recommended color themes
+
+- [Alien Dark](https://marketplace.visualstudio.com/items?itemName=tzero86.alien-dark)
+- [Dracula Theme Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- [Iceberg](https://marketplace.visualstudio.com/items?itemName=harg.iceberg)
+- [Kanagawa](https://marketplace.visualstudio.com/items?itemName=qufiwefefwoyn.kanagawa)
+- [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+- [Soft Colors](https://marketplace.visualstudio.com/items?itemName=victorlitvinenko.vscode-soft-colors)
 
 ---
 
