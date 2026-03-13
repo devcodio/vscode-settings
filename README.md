@@ -6,10 +6,11 @@ This guide will help you customise the appearance of Visual Studio Code.
 
 ---
 
-### Customization Extensions:
+### Customization Extensions and font:
 
-- [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
+- [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
   
 ---
 
@@ -100,12 +101,18 @@ This guide will help you customise the appearance of Visual Studio Code.
 ### Other recommended color themes
 
 - [Alien Dark](https://marketplace.visualstudio.com/items?itemName=tzero86.alien-dark)
+- [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
+- [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+- [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula)
 - [Dracula Theme Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - [Iceberg](https://marketplace.visualstudio.com/items?itemName=harg.iceberg)
 - [Kanagawa](https://marketplace.visualstudio.com/items?itemName=qufiwefefwoyn.kanagawa)
 - [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+- [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [Soft Colors](https://marketplace.visualstudio.com/items?itemName=victorlitvinenko.vscode-soft-colors)
 
 ---
