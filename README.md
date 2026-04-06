@@ -114,6 +114,7 @@ This guide will help you customise the appearance of Visual Studio Code.
 - [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [Soft Colors](https://marketplace.visualstudio.com/items?itemName=victorlitvinenko.vscode-soft-colors)
+- [Space Ocean Kit Refined](https://marketplace.visualstudio.com/items?itemName=space-ocean-kit-refined.space-ocean-kit-refined)
 - [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 
 ---
